@@ -477,18 +477,6 @@ Some features that can be added later:
 
 ---
 
-# 📸 Screenshots
-
-Add your project screenshots here.
-
-Example:
-
-```md id="jlwmnh"
-![Home Page](./screenshots/home.png)
-```
-
----
-
 # 🚀 Deployment
 
 This project can be deployed using:
