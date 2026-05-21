@@ -31,12 +31,6 @@ The app displays products fetched from the Fake Store API and allows users to na
 🔗 **Deployed Link:**
 `https://products-react-app-alpha.vercel.app/`
 
-Example:
-
-```md id="mjlwm3"
-https://your-products-app.vercel.app/
-```
-
 ---
 
 # 📂 Project Structure
